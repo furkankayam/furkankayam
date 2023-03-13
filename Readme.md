@@ -31,8 +31,8 @@
 ![Discord](https://img.shields.io/badge/discord-%23000000.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5865F2)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=FF9A00)
-![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)
 ![Obsidian](https://img.shields.io/badge/obsidian-000?style=for-the-badge&logo=obsidian&logoColor=white&color=483699)
+![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)
 
 <table>
   <tr>
