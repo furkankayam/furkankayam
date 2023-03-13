@@ -25,7 +25,6 @@
 ![Hibernate](https://img.shields.io/badge/hibernate-000?style=for-the-badge&logo=hibernate&logoColor=white&color=59666C)
 ![IntellijIDEA](https://img.shields.io/badge/intellij%20idea-000?&style=for-the-badge&logo=intellij-idea&logoColor=white&color=000000)
 ![Eclipse](https://img.shields.io/badge/eclipse%20-%23000000.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white&color=2C2255)
-![NetBeans](https://img.shields.io/badge/netbeans%20-%23000000.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&color=1B6AC6)
 ![Visual Studio Code](https://img.shields.io/badge/VSCODE%20-%23000000.svg?&style=for-the-badge&logo=visual-studio-code&color=007ACC)
 ![Postman](https://img.shields.io/badge/postman-000?&style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)
 ![Trello](https://img.shields.io/badge/trello-%23000000.svg?&style=for-the-badge&logo=trello&color=0052CC)
