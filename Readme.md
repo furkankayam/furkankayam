@@ -5,7 +5,7 @@
 <br>
 
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, SQL**
-- 💬 Ask me aboutdsaf **Spring Boot**
+- 💬 Ask me about **Spring Boot**
 
 ## ⚡️ Connect with me:
 
