@@ -40,7 +40,7 @@
       <details>
         <summary>👨‍💻 Most Used Languages</summary>
         <div align="center">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkankayam&theme=vue-dark&line_height=40&hide=css" alt="most used languages" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkankayam&theme=darcula&line_height=40&hide=css" alt="most used languages" />
         </div>
       </details>
     </td>
@@ -50,7 +50,7 @@
       <details>
         <summary>:octocat: My GitHub Stats</summary>
           <div align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=vue-dark&show_icons=true" alt="github stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=darcula&show_icons=true" alt="github stats">
           </div>
       </details>
     </td>
@@ -60,7 +60,7 @@
       <details>
         <summary>:warning: My GitHub Streak</summary>
           <div align="center">
-            <img src="https://streak-stats.demolab.com/?user=furkankayam&theme=vue-dark" alt="github streak">
+            <img src="https://streak-stats.demolab.com/?user=furkankayam&theme=darcula" alt="github streak">
           </div>
       </details>
     </td>
