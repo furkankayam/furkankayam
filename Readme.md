@@ -2,8 +2,6 @@
 
 ### A Software Developer from Sivas/Turkey
 
-<br>
-
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, SQL**
 - 💬 Ask me aboutdsaf **Spring Boot**
 
