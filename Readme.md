@@ -49,7 +49,9 @@
     <td valign="top" width="50%">
       <details>
         <summary>:octocat: My GitHub Stats</summary>
-          <img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=darcula&show_icons=true" alt="github stats">
+          <div align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=darcula&show_icons=true" alt="github stats">
+          </div>
       </details>
     </td>
   </tr>
@@ -57,7 +59,9 @@
     <td valign="top" width="50%">
       <details>
         <summary>:warning: My GitHub Streak</summary>
-          <img src="https://streak-stats.demolab.com/?user=furkankayam&theme=dark" alt="github streak">
+          <div align="center">
+            <img src="https://streak-stats.demolab.com/?user=furkankayam&theme=dark" alt="github streak">
+          </div>
       </details>
     </td>
   </tr>
