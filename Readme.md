@@ -15,24 +15,24 @@
 ## 🧰 Technologies:
 
 [![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=write&color=FF9A00)](https://www.java.com/en/)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-000?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F)
-![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![Spring Boot](https://img.shields.io/badge/spring%20boot-000?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F)](https://spring.io/)
+[![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)](https://www.mysql.com/)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 
 ## 🪛 Additional tools and dev ecossystem
 
-![Hibernate](https://img.shields.io/badge/hibernate-000?style=for-the-badge&logo=hibernate&logoColor=white&color=59666C)
-![IntellijIDEA](https://img.shields.io/badge/intellij%20idea-000?&style=for-the-badge&logo=intellij-idea&logoColor=white&color=000000)
-![Eclipse](https://img.shields.io/badge/eclipse%20-%23000000.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white&color=2C2255)
-![Visual Studio Code](https://img.shields.io/badge/VSCODE%20-%23000000.svg?&style=for-the-badge&logo=visual-studio-code&color=007ACC)
-![Postman](https://img.shields.io/badge/postman-000?&style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)
-![Trello](https://img.shields.io/badge/trello-%23000000.svg?&style=for-the-badge&logo=trello&color=0052CC)
-![Discord](https://img.shields.io/badge/discord-%23000000.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5865F2)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=FF9A00)
-![Obsidian](https://img.shields.io/badge/obsidian-000?style=for-the-badge&logo=obsidian&logoColor=white&color=483699)
-![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)
+[![Hibernate](https://img.shields.io/badge/hibernate-000?style=for-the-badge&logo=hibernate&logoColor=white&color=59666C)](https://hibernate.org/)
+[![IntellijIDEA](https://img.shields.io/badge/intellij%20idea-000?&style=for-the-badge&logo=intellij-idea&logoColor=white&color=000000)](https://www.jetbrains.com/idea/)
+[![Eclipse](https://img.shields.io/badge/eclipse%20-%23000000.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white&color=2C2255)](https://www.eclipse.org/downloads/)
+[![Visual Studio Code](https://img.shields.io/badge/VSCODE%20-%23000000.svg?&style=for-the-badge&logo=visual-studio-code&color=007ACC)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/postman-000?&style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)](https://www.postman.com/)
+[![Trello](https://img.shields.io/badge/trello-%23000000.svg?&style=for-the-badge&logo=trello&color=0052CC)](https://trello.com/en)
+[![Discord](https://img.shields.io/badge/discord-%23000000.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.com/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=FF9A00)](https://www.adobe.com/products/illustrator.html)
+[![Obsidian](https://img.shields.io/badge/obsidian-000?style=for-the-badge&logo=obsidian&logoColor=white&color=483699)](https://obsidian.md/)
+[![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)](https://www.linux.org/)
 
 <table border="3">
   <tr>
