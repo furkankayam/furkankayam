@@ -57,7 +57,7 @@
     <td valign="top" width="50%">
       <details>
         <summary>:warning: My GitHub Streak</summary>
-          <img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=darcula&show_icons=true" alt="github streak">
+          <img src="https://streak-stats.demolab.com/?user=furkankayam&theme=dark" alt="github streak">
       </details>
     </td>
   </tr>
