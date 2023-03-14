@@ -14,7 +14,7 @@
 
 ## 🧰 Technologies:
 
-![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=write&color=FF9A00)
+[![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=write&color=FF9A00)](https://www.java.com/en/)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-000?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F)
 ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
