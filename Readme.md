@@ -38,8 +38,26 @@
   <tr>
     <td valign="top" width="50%">
       <details>
+        <summary>👨‍💻 Most Used Languages</summary>
+        <div align="center">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkankayam&theme=react&line_height=40&hide=css" alt="most used languages" />
+        </div>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <details>
         <summary>:octocat: My GitHub Stats</summary>
           <img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=darcula&show_icons=true" alt="github stats">
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <details>
+        <summary>:warning: My GitHub Streak</summary>
+          <img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=darcula&show_icons=true" alt="github streak">
       </details>
     </td>
   </tr>
