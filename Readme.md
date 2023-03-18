@@ -75,4 +75,10 @@
   </tr>
 </table>
 
+<div align="center">
+    <a href="#"><img alt="Lucas Machado Github Stats" src="https://github-readme-stats.vercel.app/api?username=furkankayam&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="190"/></a>
+    <a href="#"><img alt="Lucas Machado Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkankayam&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="190"/></a>
+    <br/>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
