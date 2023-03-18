@@ -5,7 +5,7 @@
 <!-- # Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /> I'm [Furkan](#) -->
 <br>
 
-### A Software Developer from Sivas/Turkey
+#### A Software Developer from Sivas/Turkey
 
 <br>
 
@@ -19,7 +19,8 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/furkankayam_/)
 [![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.36kaya@gmail.com)
 
-## 🧰 Technologies:
+### 🧰 Technologies:
+<img src="images/borderseperator.gif">
 
 [![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=write&color=FF9A00)](https://www.java.com/en/)
 [![Spring Boot](https://img.shields.io/badge/spring%20boot-000?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F)](https://spring.io/)
@@ -27,7 +28,8 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 
-## 🪛 Additional tools and dev ecossystem
+### 🪛 Additional tools and dev ecossystem
+<img src="images/borderseperator.gif">
 
 [![Hibernate](https://img.shields.io/badge/hibernate-000?style=for-the-badge&logo=hibernate&logoColor=white&color=59666C)](https://hibernate.org/)
 [![IntellijIDEA](https://img.shields.io/badge/intellij%20idea-000?&style=for-the-badge&logo=intellij-idea&logoColor=white&color=000000)](https://www.jetbrains.com/idea/)
