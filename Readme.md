@@ -19,6 +19,8 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/furkankayam_/)
 [![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.36kaya@gmail.com)
 
+<br>
+
 ### 🧰 Technologies:
 <img src="images/borderseperator.gif">
 
@@ -27,6 +29,8 @@
 [![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)](https://www.mysql.com/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+
+<br>
 
 ### 🪛 Additional tools and dev ecossystem
 <img src="images/borderseperator.gif">
