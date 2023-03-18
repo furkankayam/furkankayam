@@ -56,7 +56,7 @@
   <tr>
     <td valign="top" width="50%">
       <details>
-        <summary>:github: GitHub Profile Stats</summary>
+        <summary>:octocat: GitHub Profile Stats</summary>
           <div align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=darcula&show_icons=true" alt="github stats">
           </div>
