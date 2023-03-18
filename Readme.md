@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, SQL**
 - 💬 Ask me about **Spring Boot**
 
-## ⚡️ Connect with me:
+### ⚡️ Connect with me:
 <img src="images/borderseperator.gif">
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-furkan-kaya/)
