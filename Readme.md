@@ -46,7 +46,7 @@
   <tr>
     <td valign="top" width="50%">
       <details>
-        <summary>👨‍💻 Most Used Languages</summary>
+        <summary>💻 Most Used Languages</summary>
         <div align="center">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkankayam&theme=darcula&line_height=40&hide=css" alt="most used languages" />
         </div>
@@ -56,7 +56,7 @@
   <tr>
     <td valign="top" width="50%">
       <details>
-        <summary>:computer: GitHub Profile Stats</summary>
+        <summary>:github: GitHub Profile Stats</summary>
           <div align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=darcula&show_icons=true" alt="github stats">
           </div>
