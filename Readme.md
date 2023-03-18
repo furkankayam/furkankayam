@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, SQL**
 - 💬 Ask me about **Spring Boot**
 
+<br>
+
 ## ⚡️ Connect with me:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-furkan-kaya/)
