@@ -13,6 +13,7 @@
 - 💬 Ask me about **Spring Boot**
 
 ## ⚡️ Connect with me:
+<img  src="https://github.com/furkankayam/furkankayam/blob/main/Images/borderseperator.gif">
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-furkan-kaya/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/furkankayam_/)
