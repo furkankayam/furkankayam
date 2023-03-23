@@ -42,6 +42,10 @@
 [![Obsidian](https://img.shields.io/badge/obsidian-000?style=for-the-badge&logo=obsidian&logoColor=white&color=483699)](https://obsidian.md/)
 [![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)](https://www.linux.org/)
 
+## 🎁 Support:
+
+[![](https://img.shields.io/badge/buy%20me%20a%20coffee%20-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/furkankayam)
+
 <br>
 
 <!--
