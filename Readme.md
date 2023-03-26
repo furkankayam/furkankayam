@@ -1,3 +1,5 @@
+<div id="up"></div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=<Hello+World!+I'm+Furkan/>;<I'm+from+Turkey/>;<Welcome!/>;<Merhaba+Dünya!+Ben+Furkan/>;<Hoş+geldiniz!/>+:%29)](https://github.com/furkankayam)
@@ -105,5 +107,8 @@
 <img src="https://streak-stats.demolab.com/?user=furkankayam&theme=darcula" alt="github streak"/>
 </details>
 
+<div style="text-align: center;">
+  <a href="#up"><img src="./up.png" alt="Up" width="15%"></a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
