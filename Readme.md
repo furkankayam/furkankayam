@@ -108,7 +108,7 @@
 </details>
 
 <div style="text-align: center;">
-  <a href="#up"><img src="./up.png" alt="Up" width="15%"></a>
+  <a href="#up"><img src="/images/up.png" alt="Up" width="15%"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
