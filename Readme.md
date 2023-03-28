@@ -43,6 +43,7 @@
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=FF9A00)](https://www.adobe.com/products/illustrator.html)
 [![Obsidian](https://img.shields.io/badge/obsidian-000?style=for-the-badge&logo=obsidian&logoColor=white&color=483699)](https://obsidian.md/)
 [![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)](https://www.linux.org/)
+[![Fast Fingers](https://img.shields.io/badge/Fast%20Fingers-C70D2C?style=for-the-badge&logo=Speedtest&logoColor=white&color=141526)](https://10fastfingers.com/user/3029792/)
 
 ## 🎁 Support:
 
