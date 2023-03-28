@@ -95,17 +95,17 @@
 
 <details>
 <summary>💻 Most Used Languages</summary>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkankayam&theme=darcula&line_height=40&hide=css" alt="most used languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkankayam&theme=solarized-dark&line_height=40&hide=css" alt="most used languages" />
 </details>
 
 <details>
 <summary>:octocat: GitHub Profile Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=darcula&show_icons=true" alt="github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=solarized-dark&show_icons=true" alt="github stats">
 </details>
 
 <details>
 <summary>🔥 Streak Stats</summary>
-<img src="https://streak-stats.demolab.com/?user=furkankayam&theme=darcula" alt="github streak"/>
+<img src="https://streak-stats.demolab.com/?user=furkankayam&theme=solarized-dark" alt="github streak"/>
 </details>
 
 <p align="center">
