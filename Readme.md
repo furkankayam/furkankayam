@@ -18,9 +18,11 @@
 
 ## ⚡️ Connect with me:
 
+<center>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-furkan-kaya/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/furkankayam_/)
 [![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.36kaya@gmail.com)
+<center/>
 
 ## 🧰 Technologies:
 
