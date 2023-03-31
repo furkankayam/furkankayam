@@ -13,7 +13,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Java, Spring, Spring Boot, SQL**
+- 🌱 I’m currently learning **Java, Spring Boot, SQL, NoSQL**
 - 💬 Ask me about **Spring Boot**
 
 ## ⚡️ Connect with me:
