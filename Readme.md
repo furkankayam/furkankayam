@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=<Hello+World!+I'm+Furkan/>;<I'm+from+Turkey/>;<Welcome!/>;<Merhaba+Dünya!+Ben+Furkan/>;<Hoş+geldiniz!/>+:%29)](https://github.com/furkankayam)
 
-<!-- # Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /> I'm [Furkan](#) -->
 <br>
 
 ![](https://komarev.com/ghpvc/?username=furkankayam&style=for-the-badge)
@@ -48,48 +47,6 @@
 [![](https://img.shields.io/badge/buy%20me%20a%20coffee%20-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/furkankayam)
 
 <br>
-
-<!--
-<table border="3">
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>💻 Most Used Languages</summary>
-        <div align="center">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkankayam&theme=darcula&line_height=40&hide=css" alt="most used languages" />
-        </div>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>:octocat: GitHub Profile Stats</summary>
-          <div align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=darcula&show_icons=true" alt="github stats">
-          </div>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>🔥 Streak Stats</summary>
-          <div align="center">
-            <img src="https://streak-stats.demolab.com/?user=furkankayam&theme=darcula" alt="github streak"/>
-          </div>
-      </details>
-    </td>
-  </tr>
-</table>
--->
-
-<!--
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=furkankayam&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DGS1337 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkankayam&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
--->
 
 <details>
 <summary>💻 Most Used Languages</summary>
