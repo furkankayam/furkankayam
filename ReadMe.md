@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=furkankayam&style=for-the-badge)
 
-### A Software Developer from Sivas/Turkey
+### A Software Developer from Istanbul/Turkey
 
 <br>
 
