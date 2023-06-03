@@ -19,6 +19,7 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/furkankayam_/)
 [![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.36kaya@gmail.com)
 [![](https://img.shields.io/badge/HackerRank-ffff?style=for-the-badge&logo=HackerRank&logoColor=white&color=02303A)](https://www.hackerrank.com/furkan_36kaya)
+[![](https://img.shields.io/badge/Medium-ffff?style=for-the-badge&logo=Medium&logoColor=white&color=000000)](https://medium.com/@furkan.36kaya/)
 
 ## 🧰 Technologies:
 
