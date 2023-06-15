@@ -27,7 +27,7 @@
 [![Spring Boot](https://img.shields.io/badge/spring%20boot-000?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F)](https://spring.io/)
 [![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=PostgreSQL&logoColor=white&color=4169E1)](https://www.postgresql.org/)
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=CC2927)](https://www.microsoft.com/tr-tr/sql-server)
+[![Microsoft SQL Server](https://img.shields.io/badge/mssql-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=CC2927)](https://www.microsoft.com/tr-tr/sql-server)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://commonmark.org/)
