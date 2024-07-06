@@ -33,7 +33,6 @@
 [![RabbitMQ](https://img.shields.io/badge/Rabiitmq-000?style=for-the-badge&logo=rabbitmq&logoColor=white&color=FF6600)](https://www.rabbitmq.com/)
 [![MQTT](https://img.shields.io/badge/MQTT-000?style=for-the-badge&logo=mqtt&logoColor=white&color=660066)](https://mqtt.org/)
 [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)](https://www.docker.com/)
-
 [![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=black&color=61DAFB)](https://react.dev/)
 [![Redux Toolkit](https://img.shields.io/badge/redux%20Toolkit-000?style=for-the-badge&logo=redux&logoColor=white&color=764ABC)](https://redux-toolkit.js.org/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-000?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)](https://tailwindcss.com/)
