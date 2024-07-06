@@ -10,41 +10,50 @@
 
 <br>
 
-- 🌱 I’m currently learning **Java, Spring Boot, SQL, NoSQL**
-- 💬 Ask me about **Spring Boot**
+- 🌱 I’m currently learning **Java, Spring Boot, Spring Framework, Clean Code, Design Patterns**
+- 💬 Ask me about **Spring Framework**
 
 ## ⚡️ Connect with me:
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-furkan-kaya/)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/furkankayam_/)
-[![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.36kaya@gmail.com)
-[![](https://img.shields.io/badge/HackerRank-ffff?style=for-the-badge&logo=HackerRank&logoColor=white&color=02303A)](https://www.hackerrank.com/furkan_36kaya)
-[![](https://img.shields.io/badge/Medium-ffff?style=for-the-badge&logo=Medium&logoColor=white&color=000000)](https://medium.com/@furkan.36kaya/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-furkan-kaya/)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/furkankayam_/)
+[![GMAIL](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.36kaya@gmail.com)
+[![WEBSITE](https://img.shields.io/badge/Website-ffff?style=for-the-badge&logo=crunchyroll&logoColor=white&color=231F20)](https://furkankayam.github.io/furkankaya.github.io/)
+[![MEDIUM](https://img.shields.io/badge/Medium-ffff?style=for-the-badge&logo=Medium&logoColor=white&color=000)](https://medium.com/@furkan.36kaya/)
 
 ## 🧰 Technologies:
 
 [![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=write&color=FF9A00)](https://www.java.com/en/)
+[![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)](https://ecma-international.org/)
 [![Spring Boot](https://img.shields.io/badge/spring%20boot-000?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F)](https://spring.io/)
-[![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=PostgreSQL&logoColor=white&color=4169E1)](https://www.postgresql.org/)
-[![Microsoft SQL Server](https://img.shields.io/badge/mssql-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=CC2927)](https://www.microsoft.com/tr-tr/sql-server)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)](https://www.mongodb.com/)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white&color=231F20)](https://kafka.apache.org/)
+[![RabbitMQ](https://img.shields.io/badge/Rabiitmq-000?style=for-the-badge&logo=rabbitmq&logoColor=white&color=FF6600)](https://www.rabbitmq.com/)
+[![MQTT](https://img.shields.io/badge/MQTT-000?style=for-the-badge&logo=mqtt&logoColor=white&color=660066)](https://mqtt.org/)
+[![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)](https://www.docker.com/)
+[![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=black&color=61DAFB)](https://react.dev/)
+[![Redux Toolkit](https://img.shields.io/badge/redux%20Toolkit-000?style=for-the-badge&logo=redux&logoColor=white&color=764ABC)](https://redux-toolkit.js.org/)
+[![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-000?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)](https://tailwindcss.com/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://commonmark.org/)
 
 ## 🪛 Additional tools and dev ecosystem:
 
-[![Hibernate](https://img.shields.io/badge/hibernate-000?style=for-the-badge&logo=hibernate&logoColor=white&color=59666C)](https://hibernate.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-C.svg?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)](https://ubuntu.com/)
 [![IntellijIDEA](https://img.shields.io/badge/intellij%20idea-000?&style=for-the-badge&logo=intellij-idea&logoColor=white&color=000000)](https://www.jetbrains.com/idea/)
 [![Eclipse](https://img.shields.io/badge/eclipse%20-%23000000.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white&color=2C2255)](https://www.eclipse.org/downloads/)
-[![Visual Studio Code](https://img.shields.io/badge/VSCODE%20-%23000000.svg?&style=for-the-badge&logo=visual-studio-code&color=007ACC)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VSCODE-%23000000.svg?&style=for-the-badge&logo=v&logoColor=white&color=007ACC)](https://code.visualstudio.com/)
+[![Insomnia](https://img.shields.io/badge/Insomnia-000?&style=for-the-badge&logo=insomnia&logoColor=white&color=4000BF)](https://insomnia.rest/)
 [![Postman](https://img.shields.io/badge/postman-000?&style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)](https://www.postman.com/)
+[![Hibernate](https://img.shields.io/badge/hibernate-000?style=for-the-badge&logo=hibernate&logoColor=white&color=59666C)](https://hibernate.org/)
 [![Trello](https://img.shields.io/badge/trello-%23000000.svg?&style=for-the-badge&logo=trello&color=0052CC)](https://trello.com/en)
 [![Discord](https://img.shields.io/badge/discord-%23000000.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=FF9A00)](https://www.adobe.com/products/illustrator.html)
 [![Obsidian](https://img.shields.io/badge/obsidian-000?style=for-the-badge&logo=obsidian&logoColor=white&color=483699)](https://obsidian.md/)
-[![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)](https://www.linux.org/)
+[![Arduino](https://img.shields.io/badge/Arduino-C70D2C?style=for-the-badge&logo=Arduino&logoColor=white&color=00878F)](https://www.arduino.cc/)
+[![LIDAR](https://img.shields.io/badge/RPLIDAR-C70D2C?style=for-the-badge&logo=cardano&logoColor=white&color=0F0F11)](https://www.slamtec.ai/product/slamtec-rplidar-s2/?gad_source=1&gclid=Cj0KCQjw1qO0BhDwARIsANfnkv-lFlFCqv0Vl6bA8OA4NusTEZGf9OjdpF_iNG06RRVNie_SwI-jA1gaAnvTEALw_wcB)
 [![Fast Fingers](https://img.shields.io/badge/Fast%20Fingers-C70D2C?style=for-the-badge&logo=Speedtest&logoColor=white&color=141526)](https://10fastfingers.com/user/3029792/)
 
 ## 🎁 Support:
