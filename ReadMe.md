@@ -46,6 +46,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/VSCODE-%23000000.svg?&style=for-the-badge&logo=v&logoColor=white&color=007ACC)](https://code.visualstudio.com/)
 [![Insomnia](https://img.shields.io/badge/Insomnia-000?&style=for-the-badge&logo=insomnia&logoColor=white&color=4000BF)](https://insomnia.rest/)
 [![Postman](https://img.shields.io/badge/postman-000?&style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)](https://www.postman.com/)
+[![OpenAPI](https://img.shields.io/badge/Open%20API-000?&style=for-the-badge&logo=openapiinitiative&logoColor=white&color=6BA539)](https://www.openapis.org/)
 [![Hibernate](https://img.shields.io/badge/hibernate-000?style=for-the-badge&logo=hibernate&logoColor=white&color=59666C)](https://hibernate.org/)
 [![Trello](https://img.shields.io/badge/trello-%23000000.svg?&style=for-the-badge&logo=trello&color=0052CC)](https://trello.com/en)
 [![Discord](https://img.shields.io/badge/discord-%23000000.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.com/)
