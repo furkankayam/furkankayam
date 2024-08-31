@@ -35,6 +35,7 @@
 [![JUnit5](https://img.shields.io/badge/JUnit5-000?style=for-the-badge&logo=junit5&logoColor=white&color=25A162)](https://junit.org/junit5/)
 [![Mockito](https://img.shields.io/badge/Mockito-000?style=for-the-badge&logo=a&logoColor=white&color=006340)](https://site.mockito.org/)
 [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?style=for-the-badge&logo=githubactions&logoColor=white&color=181717)](https://docs.github.com/en/actions)
 [![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=black&color=61DAFB)](https://react.dev/)
 [![Redux Toolkit](https://img.shields.io/badge/redux%20Toolkit-000?style=for-the-badge&logo=redux&logoColor=white&color=764ABC)](https://redux-toolkit.js.org/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-000?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)](https://tailwindcss.com/)
