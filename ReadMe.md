@@ -61,6 +61,7 @@
 
 [![JUnit5](https://img.shields.io/badge/JUnit5-000?style=for-the-badge&logo=junit5&logoColor=white&color=25A162)](https://junit.org/junit5/)
 [![Mockito](https://img.shields.io/badge/Mockito-000?style=for-the-badge&logo=a&logoColor=white&color=006340)](https://site.mockito.org/)
+[![JaCoCo](https://img.shields.io/badge/JaCoCo-000?style=for-the-badge&logo=a&logoColor=white&color=003648)](https://www.eclemma.org/jacoco/)
 [![Testcontainers](https://img.shields.io/badge/testcontainers-000?style=for-the-badge&logo=testcontainers&logoColor=white&color=2496ED)](https://www.testcontainers.org/)
 
 ## 🐳 DevOps & Tools
