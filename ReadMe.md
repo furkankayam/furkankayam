@@ -87,6 +87,10 @@
 
 ## 📋 Project Management & Communication
 
+[![Agile](https://img.shields.io/badge/Agile-%23000000.svg?&style=for-the-badge&logo=a&color=0052CC)](https://agilemanifesto.org/)
+[![Scrum](https://img.shields.io/badge/Scrum-%23000000.svg?&style=for-the-badge&logo=a&color=0052CC)](https://scrumguides.org/)
+[![Jira](https://img.shields.io/badge/Jira-%23000000.svg?&style=for-the-badge&logo=jira&color=0052CC)](https://www.atlassian.com/software/jira)
+[![Slack](https://img.shields.io/badge/slack-%23000000.svg?&style=for-the-badge&logo=slack&color=4A154B)](https://slack.com/)
 [![Trello](https://img.shields.io/badge/trello-%23000000.svg?&style=for-the-badge&logo=trello&color=0052CC)](https://trello.com/en)
 [![Discord](https://img.shields.io/badge/discord-%23000000.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.com/)
 
