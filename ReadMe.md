@@ -6,12 +6,12 @@
 
 ![](https://komarev.com/ghpvc/?username=furkankayam&style=for-the-badge)
 
-### A Software Engineer from Istanbul/Turkey
+### Software Engineer | Istanbul, Turkey
 
 <br>
 
-- 🌱 I’m currently learning **Spring Framework, Spring Cloud, Clean Code, Design Patterns**
-- 💬 Ask me about **Spring Framework**
+- 🌱 I’m currently expanding my stack with **React.js & Frontend Ecosystem** while mastering **Advanced Design Patterns**
+- 💬 Ask me about **Java, Spring Boot, Microservices & Backend Architecture**
 
 ## ⚡️ Connect with me:
 
@@ -49,7 +49,7 @@
 
 ## 📡 Message Queues & Communication
 
-[![RabbitMQ](https://img.shields.io/badge/Rabiitmq-000?style=for-the-badge&logo=rabbitmq&logoColor=white&color=FF6600)](https://www.rabbitmq.com/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq&logoColor=white&color=FF6600)](https://www.rabbitmq.com/)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white&color=231F20)](https://kafka.apache.org/)
 [![SOAP](https://img.shields.io/badge/soap-000?style=for-the-badge&logo=soap&logoColor=white&color=326CE5)](https://www.w3.org/TR/soap/)
 [![gRPC](https://img.shields.io/badge/grpc-000?style=for-the-badge&logo=trpc&logoColor=white&color=4285F4)](https://grpc.io/)
@@ -60,8 +60,8 @@
 ## 🧪 Testing
 
 [![JUnit5](https://img.shields.io/badge/JUnit5-000?style=for-the-badge&logo=junit5&logoColor=white&color=25A162)](https://junit.org/junit5/)
-[![Mockito](https://img.shields.io/badge/Mockito-000?style=for-the-badge&logo=a&logoColor=white&color=006340)](https://site.mockito.org/)
-[![JaCoCo](https://img.shields.io/badge/JaCoCo-000?style=for-the-badge&logo=a&logoColor=white&color=003648)](https://www.eclemma.org/jacoco/)
+[![Mockito](https://img.shields.io/badge/Mockito-000?style=for-the-badge&logo=mockito&logoColor=white&color=006340)](https://site.mockito.org/)
+[![JaCoCo](https://img.shields.io/badge/JaCoCo-000?style=for-the-badge&color=003648)](https://www.eclemma.org/jacoco/)
 [![Testcontainers](https://img.shields.io/badge/testcontainers-000?style=for-the-badge&logo=testcontainers&logoColor=white&color=2496ED)](https://www.testcontainers.org/)
 
 ## 🐳 DevOps & Tools
@@ -87,8 +87,8 @@
 
 ## 📋 Project Management & Communication
 
-[![Agile](https://img.shields.io/badge/Agile-%23000000.svg?&style=for-the-badge&logo=a&color=0052CC)](https://agilemanifesto.org/)
-[![Scrum](https://img.shields.io/badge/Scrum-%23000000.svg?&style=for-the-badge&logo=a&color=0052CC)](https://scrumguides.org/)
+[![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)](https://agilemanifesto.org/)
+[![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge)](https://scrumguides.org/)
 [![Jira](https://img.shields.io/badge/Jira-%23000000.svg?&style=for-the-badge&logo=jira&color=0052CC)](https://www.atlassian.com/software/jira)
 [![Slack](https://img.shields.io/badge/slack-%23000000.svg?&style=for-the-badge&logo=slack&color=4A154B)](https://slack.com/)
 [![Trello](https://img.shields.io/badge/trello-%23000000.svg?&style=for-the-badge&logo=trello&color=0052CC)](https://trello.com/en)
