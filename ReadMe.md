@@ -16,7 +16,7 @@
 ## ⚡️ Connect with me:
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-furkan-kaya/)
-[![GMAIL](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.36kaya@gmail.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mefurkankaya36@gmail.com)
 [![WEBSITE](https://img.shields.io/badge/Website-ffff?style=for-the-badge&logo=crunchyroll&logoColor=white&color=231F20)](https://furkankayam.github.io/furkankaya.github.io/)
 [![MEDIUM](https://img.shields.io/badge/Medium-ffff?style=for-the-badge&logo=medium&logoColor=white&color=000)](https://medium.com/@furkankaya36)
 
