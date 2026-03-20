@@ -24,6 +24,7 @@
 
 [![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=white&color=FF9A00)](https://www.java.com/en/)
 [![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)](https://ecma-international.org/)
+[![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white&color=3776AB)](https://www.python.org/)
 
 ## 🏗️ Frameworks & Libraries
@@ -33,11 +34,13 @@
 [![Hibernate](https://img.shields.io/badge/hibernate-000?style=for-the-badge&logo=hibernate&logoColor=white&color=59666C)](https://hibernate.org/)
 [![Maven](https://img.shields.io/badge/maven-000?style=for-the-badge&logo=apachemaven&logoColor=white&color=C71A36)](https://maven.apache.org/)
 [![Gradle](https://img.shields.io/badge/gradle-000?style=for-the-badge&logo=gradle&logoColor=white&color=02303A)](https://gradle.org/)
-[![ExpressJS](https://img.shields.io/badge/expressjs-000?style=for-the-badge&logo=express&logoColor=black&color=000000)](https://expressjs.com/)
+[![ExpressJS](https://img.shields.io/badge/expressjs-000?style=for-the-badge&logo=express&logoColor=white&color=000000)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/reactjs-000?style=for-the-badge&logo=react&logoColor=black&color=61DAFB)](https://react.dev/)
+[![React Query](https://img.shields.io/badge/-React%20Query-000?style=for-the-badge&logo=reactquery&logoColor=white&color=FF4154)](https://tanstack.com/query/latest)
 
 ## 🗄️ Databases & Migration
 
+[![Oracle](https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle&logoColor=white&color=F80000)](https://www.oracle.com/database/)
 [![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57)](https://www.sqlite.org/)
 [![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=PostgreSQL&logoColor=white&color=4169E1)](https://www.postgresql.org/)
@@ -52,7 +55,7 @@
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq&logoColor=white&color=FF6600)](https://www.rabbitmq.com/)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white&color=231F20)](https://kafka.apache.org/)
 [![SOAP](https://img.shields.io/badge/soap-000?style=for-the-badge&logo=soap&logoColor=white&color=326CE5)](https://www.w3.org/TR/soap/)
-[![gRPC](https://img.shields.io/badge/grpc-000?style=for-the-badge&logo=trpc&logoColor=white&color=4285F4)](https://grpc.io/)
+[![gRPC](https://img.shields.io/badge/grpc-000?style=for-the-badge&logo=grpc&logoColor=white&color=4285F4)](https://grpc.io/)
 [![WebSocket](https://img.shields.io/badge/websocket-000?style=for-the-badge&logo=websocket&logoColor=white&color=000000)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 [![MQTT](https://img.shields.io/badge/MQTT-000?style=for-the-badge&logo=mqtt&logoColor=white&color=660066)](https://mqtt.org/)
 [![ChirpStack](https://img.shields.io/badge/chirpstack-000?style=for-the-badge&logo=chirpstack&logoColor=white&color=1E3A8A)](https://www.chirpstack.io/)
@@ -70,8 +73,6 @@
 [![Jenkins](https://img.shields.io/badge/jenkins-000?style=for-the-badge&logo=jenkins&logoColor=white&color=D24939)](https://www.jenkins.io/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?style=for-the-badge&logo=githubactions&logoColor=white&color=000000)](https://docs.github.com/en/actions)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-C.svg?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)](https://ubuntu.com/)
-[![Eclipse](https://img.shields.io/badge/eclipse%20-%23000000.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white&color=2C2255)](https://www.eclipse.org/downloads/)
-[![IntellijIDEA](https://img.shields.io/badge/intellij%20idea-000?&style=for-the-badge&logo=intellij-idea&logoColor=white&color=000000)](https://www.jetbrains.com/idea/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/postman-000?&style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)](https://www.postman.com/)
 [![OpenAPI](https://img.shields.io/badge/Open%20API-000?&style=for-the-badge&logo=openapiinitiative&logoColor=white&color=6BA539)](https://www.openapis.org/)
@@ -90,8 +91,8 @@
 [![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)](https://agilemanifesto.org/)
 [![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge)](https://scrumguides.org/)
 [![Jira](https://img.shields.io/badge/Jira-%23000000.svg?&style=for-the-badge&logo=jira&color=0052CC)](https://www.atlassian.com/software/jira)
-[![Slack](https://img.shields.io/badge/slack-%23000000.svg?&style=for-the-badge&logo=slack&color=4A154B)](https://slack.com/)
 [![Trello](https://img.shields.io/badge/trello-%23000000.svg?&style=for-the-badge&logo=trello&color=0052CC)](https://trello.com/en)
+[![Slack](https://img.shields.io/badge/slack-%23000000.svg?&style=for-the-badge&logo=slack&color=4A154B)](https://slack.com/)
 [![Discord](https://img.shields.io/badge/discord-%23000000.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.com/)
 
 <br>
