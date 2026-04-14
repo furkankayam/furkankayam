@@ -102,10 +102,12 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkankayam&theme=solarized-dark&line_height=40&hide=css" alt="most used languages" />
 </details>
 
+<!--
 <details>
 <summary>:octocat: GitHub Profile Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=solarized-dark&show_icons=true" alt="github stats">
 </details>
+-->
 
 <details>
 <summary>🔥 Streak Stats</summary>
