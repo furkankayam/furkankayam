@@ -37,6 +37,7 @@
 [![ExpressJS](https://img.shields.io/badge/expressjs-000?style=for-the-badge&logo=express&logoColor=white&color=000000)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/reactjs-000?style=for-the-badge&logo=react&logoColor=black&color=61DAFB)](https://react.dev/)
 [![React Query](https://img.shields.io/badge/-React%20Query-000?style=for-the-badge&logo=reactquery&logoColor=white&color=FF4154)](https://tanstack.com/query/latest)
+[![Camunda](https://img.shields.io/badge/-Camunda-000?style=for-the-badge&logo=camunda&logoColor=white&color=FC5D0D)](https://camunda.com/)
 
 ## 🗄️ Databases & Migration
 
