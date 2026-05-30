@@ -59,6 +59,7 @@
 [![gRPC](https://img.shields.io/badge/grpc-000?style=for-the-badge&logo=grpc&logoColor=white&color=4285F4)](https://grpc.io/)
 [![WebSocket](https://img.shields.io/badge/websocket-000?style=for-the-badge&logo=websocket&logoColor=white&color=000000)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 [![MQTT](https://img.shields.io/badge/MQTT-000?style=for-the-badge&logo=mqtt&logoColor=white&color=660066)](https://mqtt.org/)
+[![FIX Protocol](https://img.shields.io/badge/FIX%20PROTOCOL-000?style=for-the-badge&color=0084FF)](https://fixtrading.org/)
 [![ChirpStack](https://img.shields.io/badge/chirpstack-000?style=for-the-badge&logo=chirpstack&logoColor=white&color=1E3A8A)](https://www.chirpstack.io/)
 [![Meshtastic](https://img.shields.io/badge/meshtastic-000?style=for-the-badge&color=67EA94)](https://meshtastic.org/)
 
