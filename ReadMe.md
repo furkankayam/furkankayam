@@ -39,6 +39,13 @@
 [![React Query](https://img.shields.io/badge/-React%20Query-000?style=for-the-badge&logo=reactquery&logoColor=white&color=FF4154)](https://tanstack.com/query/latest)
 [![Camunda](https://img.shields.io/badge/-Camunda-000?style=for-the-badge&logo=camunda&logoColor=white&color=FC5D0D)](https://camunda.com/)
 
+## 🤖 AI & RAG
+
+[![Spring AI](https://img.shields.io/badge/Spring%20AI-000?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F)](https://spring.io/projects/spring-ai)
+[![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=langchain&logoColor=white&color=1C3C3C)](https://www.langchain.com/)
+[![ONNX](https://img.shields.io/badge/ONNX-000?style=for-the-badge&logo=onnx&logoColor=white&color=005CED)](https://onnx.ai/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000?style=for-the-badge&logo=huggingface&logoColor=white&color=FFD21E)](https://huggingface.co/)
+
 ## 🗄️ Databases & Migration
 
 [![Oracle](https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle&logoColor=white&color=F80000)](https://www.oracle.com/database/)
