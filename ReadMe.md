@@ -10,7 +10,7 @@
 
 <br>
 
-- 🌱 I'm currently interested in **RAG systems** & **Advanced Design Patterns**
+- 🌱 I'm currently interested in **AI** & **Advanced Design Patterns**
 - 💬 Ask me about **Java, Spring Boot, Microservices & Architecture**
 
 ## ⚡️ Connect with me:
